@@ -1,0 +1,14 @@
+make GET requests data
+scrape returned html/js from requests
+download data
+get keywords
+make GET requests background
+scrape returned html/js from requests
+call llm with info
+build the cli
+create directories
+move data around in filesystem
+
+build appropriate functions, structs, types when necessary
+test code and document its organization
+review and refactor

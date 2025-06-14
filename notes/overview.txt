@@ -1,0 +1,6 @@
+Adst is a commnand line tool where the user can enter a topic they would like to research about and get options for datasets from data.gov and kaggle as well as accompanying summaries
+of relevant information needed to analyze the data from Wikipedia. The user can pick one of the datasets provided and they will find two directories created in their current directory.
+The first, data, will have the data from their dataset in the file format of their choice. The second, background, will have Wikipedia articles as well as a llm generated summary from
+the scraped summaries.
+
+I want to build this project because I am interested in learning more Go and understanding how web scrapers work.

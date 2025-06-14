@@ -1,0 +1,3 @@
+wikipedia articles have links in them to other wikipedia articles. it will be useful to click on some of them and scrape them, but which ones?
+
+how will i get the keywords from a datsets website?

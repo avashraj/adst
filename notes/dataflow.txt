@@ -1,0 +1,25 @@
+adst get car crashes
+
+We save the string car crashes as that is our input and we query Data.gov and Kaggle
+
+On each site, we expect to have a list of results ranked in some fashion. For now we just grab the top two results from each site
+
+If no results pop up on both sites, we communicate this to the user.
+
+We display the four options to the user and they can select one.
+
+For the option they select, we scrape that site and download the appropriate dataset
+
+Communicate that the data is downloading.
+
+While the data is downloading, in parallel we can grab the important keywords from the dataset they chose.
+
+We can query Wikipedia with those keywords and download the html from those articles.
+
+We construct one long document of text with the information from those articles and we ask an llm to write a summary for those.
+
+Create a new directory and move the data to the new directory
+
+Create another directory and move wikipedia articles and llm generated summary to the directory
+
+Done
